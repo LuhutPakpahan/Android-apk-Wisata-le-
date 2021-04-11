@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Wisata Le!</string>
+    <string name="name_univ">Tempat Wisata</string>
+    <string name="content_main">Berikut daftar tempat wisata di Yogyakarta </string>
+    <string name="content_rank">Kecamatan</string>
+    <string name="overview">Daerah</string>
+    <string name="university_identity">Petunjuk</string>
+    <string name="university_overview">Penjelasan Singkat</string>
+    <string name="content_overview">content overview</string>
+    <string name="content_identity">content identity</string>
+    <string name="title_identity">Wisata \nDaerah \nWilayah \nKeramaian \nFasilitas \nAlamat \nRetibusi \nOperasional</string>
+    <string name="name_me">Robertus Luhut Pandapotan Pakpahan</string>
+    <string name="email_me">A1831881@bangkit.academy</string>
+    <string name="rank">Daerah \nKecamatan </string>
+</resources>
